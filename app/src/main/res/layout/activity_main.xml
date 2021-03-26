@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        app:bar_color="#2196F3"
+        app:bar_color="#00867d"
         app:duration="500"
         app:end_text="Max"
         app:initial_position=".3"
